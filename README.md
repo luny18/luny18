@@ -12,7 +12,7 @@
 ### 📌 **Master Thesis | May 2024 – Present**  
 **"Exploring the Co-evolutionary Dynamics of Beta-Lactamases & Associated Genes in Critical Priority Pathogens"**  
 🔬 *Department of Applied Sciences, IIIT Allahabad*  
-- 🧪 Analyzed mutation patterns & gene co-evolution using **STRING, MEGA, Cytoscape**.  
+- 🧪 Analyzed mutation patterns & gene co-evolution using **STRING & MEGA**.  
 - 📊 Processed **5+ RNA-seq datasets** comparing **carbapenem-resistant vs. non-resistant Pseudomonas aeruginosa**.  
 - 🖥️ Developed an **NGS pipeline** in Bash (**FastQC, Trimmomatic, Bowtie2, featureCounts**).  
 - 📉 Performed **differential gene expression analysis (DESeq2)** & visualized results using volcano plots & heatmaps in **RStudio**.  
@@ -29,7 +29,7 @@ tion.
 ## 🛠️ Technical Skills  
 ### 🔬 **Bioinformatics & NGS Analysis**  
 - **RNA-seq Workflow:** FastQC, Trimmomatic, HISAT2, Bowtie2, featureCounts  
-- **Differential Gene Expression Analysis:** DESeq2, EdgeR, Limma  
+- **Differential Gene Expression Analysis:** DESeq2, EdgeR
 - **Pathway & Functional Analysis:** STRING, DAVID, GSEA, Cytoscape  
 
 ### 💻 **Programming & Data Science**  
