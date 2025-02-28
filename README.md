@@ -42,8 +42,8 @@ tion.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luny18&show_icons=true&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luny18&layout=compact&theme=gruvbox)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreepc18&show_icons=true&theme=gruvbox)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreepc18&layout=compact&theme=gruvbox)  
 
 ---
 
